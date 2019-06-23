@@ -1,0 +1,12 @@
+Build/
+xcuserdata/
+Carthage/
+Pods/
+*.xcworkspace
+.DS_Store
+
+*.lock
+*.resolved
+
+AsistanStudy-Swift/AsistanStudy/BMSCredentials.plist
+ios_swift/AsistanStudy/BMSCredentials.plist
